@@ -47,4 +47,5 @@ This application was built to address Alex's needs.
 ## 📡 API Used
 
 - **Open Library Search API**  
-  Example endpoint:  
+  Example endpoint:  https://openlibrary.org/search.json?title={bookTitle}
+  
