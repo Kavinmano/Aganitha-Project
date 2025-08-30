@@ -1,0 +1,19 @@
+.book-detail {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.book-detail img {
+  max-width: 200px;
+  height: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.book-detail a {
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
